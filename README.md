@@ -2,8 +2,7 @@
 - Programming: .lua, JavaScript, Python, Java
 - Tools & Technologies: [Spring Framework]
 - Other Skills: [any other relevant skills]
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## Current Projects
 1. [HCI Portal](https://github.com/peacdo/hci-portal)
 

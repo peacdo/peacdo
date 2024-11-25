@@ -1,21 +1,13 @@
-# Hi there 👋 I'm [Your Name]
-
-## About Me
-- 🌱 I'm currently learning [what you're learning]
-- 💻 Working on [current project]
-- 📫 Reach me at: [your email or social media]
-
 ## My Skills
-- Programming: [list your languages]
-- Tools & Technologies: [list your tools]
+- Programming: .lua, JavaScript, Python, Java
+- Tools & Technologies: [Spring Framework]
 - Other Skills: [any other relevant skills]
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## Current Projects
-1. [Project Name](link-to-project)
-   Brief description of what it does
+1. [HCI Portal](https://github.com/peacdo/hci-portal)
 
-2. [Another Project](link-to-project)
-   Brief description of what it does
+2. [CBMS](https://peacdo.dev)
 
 ## Connect With Me
-[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Personal Website](your-website-url)
+[Personal Website](https://peacdo.dev) | [Spotify](https://open.spotify.com/user/9xxxd9buw9bpmbrojfhpb53me?si=987d88210184436e)

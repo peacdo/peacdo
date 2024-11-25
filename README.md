@@ -7,6 +7,3 @@
 1. [HCI Portal](https://github.com/peacdo/hci-portal)
 
 2. [CBMS](https://peacdo.dev)
-
-## Connect With Me
-[Spotify](https://open.spotify.com/user/9xxxd9buw9bpmbrojfhpb53me?si=987d88210184436e)  |  [Personal Website](https://peacdo.dev)

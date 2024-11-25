@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm [Your Name]
 
-<!--
-**peacdo/peacdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm currently learning [what you're learning]
+- 💻 Working on [current project]
+- 📫 Reach me at: [your email or social media]
 
-Here are some ideas to get you started:
+## My Skills
+- Programming: [list your languages]
+- Tools & Technologies: [list your tools]
+- Other Skills: [any other relevant skills]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+1. [Project Name](link-to-project)
+   Brief description of what it does
+
+2. [Another Project](link-to-project)
+   Brief description of what it does
+
+## Connect With Me
+[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Personal Website](your-website-url)

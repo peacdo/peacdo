@@ -9,4 +9,4 @@
 2. [CBMS](https://peacdo.dev)
 
 ## Connect With Me
-[Personal Website](https://peacdo.dev) | [Spotify](https://open.spotify.com/user/9xxxd9buw9bpmbrojfhpb53me?si=987d88210184436e)
+[Spotify](https://open.spotify.com/user/9xxxd9buw9bpmbrojfhpb53me?si=987d88210184436e)  |  [Personal Website](https://peacdo.dev)
